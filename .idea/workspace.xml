@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ảnh/anh2btvn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ảnh/anh3btvn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ảnh/anhbtvn.png" afterDir="false" />
+    <list default="true" id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="btvn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn.html" beforeDir="false" afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ảnh/anh2btvn.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,8 @@
       <updated>1602125300339</updated>
       <workItem from="1602125303701" duration="197000" />
       <workItem from="1602125746985" duration="5290000" />
-      <workItem from="1602131056521" duration="5626000" />
+      <workItem from="1602131056521" duration="6196000" />
+      <workItem from="1602249148411" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1602131477103</created>
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602133082253</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="btvn">
+      <created>1602234789662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602234789662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,16 +94,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+    <MESSAGE value="btvn" />
+    <option name="LAST_COMMIT_MESSAGE" value="btvn" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602133081685">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602235119834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602133081685" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602133086995">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602235119834" />
+    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602234915226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602133086995" />
+    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602234915226" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602234929378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602234929378" />
   </component>
 </project>
