@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="btvn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btvn.html" beforeDir="false" afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ảnh/anh2btvn.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +61,7 @@
       <workItem from="1602125746985" duration="5290000" />
       <workItem from="1602131056521" duration="6196000" />
       <workItem from="1602249148411" duration="1417000" />
+      <workItem from="1602292917567" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1602131477103</created>
