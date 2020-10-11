@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ảnh nền.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laps2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss2democss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ảnh/ảnh nền.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hinh-nen-barcelona-23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh/hinh-nen-barcelona-23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,7 +45,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ảnh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,13 +54,19 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\css" />
       <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\ảnh" />
       <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\media" />
       <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\img" />
+      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\ảnh" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +81,8 @@
       <workItem from="1602125746985" duration="5290000" />
       <workItem from="1602131056521" duration="6196000" />
       <workItem from="1602249148411" duration="1417000" />
-      <workItem from="1602292917567" duration="1033000" />
+      <workItem from="1602292917567" duration="2234000" />
+      <workItem from="1602295223318" duration="9914000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1602131477103</created>
@@ -91,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602293945819</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="btvn">
+      <created>1602293958766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602293958766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="demo b2">
+      <created>1602379723921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602379723921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,20 +135,37 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
     <MESSAGE value="btvn" />
-    <option name="LAST_COMMIT_MESSAGE" value="btvn" />
+    <MESSAGE value="demo b2" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo b2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602235119834">
+    <state x="561" y="270" key="#Scopes" timestamp="1602294913388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602235119834" />
-    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602293948922">
+    <state x="561" y="270" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1602294913388" />
+    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602295659184">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602293948922" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602234929378">
+    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602295659184" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602294900874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602234929378" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602294900874" />
+    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602379723254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602379723254" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602296803239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602296803239" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602379728613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602379728613" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602300866906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602300866906" />
   </component>
 </project>
