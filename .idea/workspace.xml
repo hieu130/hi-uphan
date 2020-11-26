@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ảnh nền.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laps2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss2democss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ảnh/ảnh nền.png" afterDir="false" />
+    <list default="true" id="0a672143-6f7e-4bc4-9a68-a7558857fc8d" name="Default Changelist" comment="baithi">
+      <change afterPath="$PROJECT_DIR$/css/testdemo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesssion4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss3demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/T2009M.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/T2009M.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hinh-nen-barcelona-23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh/hinh-nen-barcelona-23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapvenha.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demobuoi2" beforeDir="false" afterPath="$PROJECT_DIR$/css/ss3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +19,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,140 +26,60 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1iZq8IdPf32kPFelD1Ml11EkTJD" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectId" id="1k4wkxnRPE6QlF7qD8moIH6GPI5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\css" />
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\ảnh" />
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\media" />
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M" />
+      <recent name="C:\Users\Mylaptop\WebstormProjects\t2009m" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\img" />
-      <recent name="C:\Users\Mylaptop\WebstormProjects\T2009M\ảnh" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36555bae-3257-4d10-bc22-b4a58f7fe4bb" name="Default Changelist" comment="" />
-      <created>1602125300339</created>
+      <changelist id="0a672143-6f7e-4bc4-9a68-a7558857fc8d" name="Default Changelist" comment="" />
+      <created>1604973318699</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602125300339</updated>
-      <workItem from="1602125303701" duration="197000" />
-      <workItem from="1602125746985" duration="5290000" />
-      <workItem from="1602131056521" duration="6196000" />
-      <workItem from="1602249148411" duration="1417000" />
-      <workItem from="1602292917567" duration="2234000" />
-      <workItem from="1602295223318" duration="9914000" />
+      <updated>1604973318699</updated>
+      <workItem from="1604973319809" duration="106000" />
+      <workItem from="1604982417039" duration="68000" />
+      <workItem from="1606360128272" duration="736000" />
+      <workItem from="1606361463053" duration="6023000" />
     </task>
-    <task id="LOCAL-00001" summary="demo">
-      <created>1602131477103</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1602131477103</updated>
-    </task>
-    <task id="LOCAL-00002" summary="demo">
-      <created>1602133082253</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1602133082253</updated>
-    </task>
-    <task id="LOCAL-00003" summary="btvn">
-      <created>1602234789662</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1602234789662</updated>
-    </task>
-    <task id="LOCAL-00004" summary="btvn">
-      <created>1602293945819</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1602293945819</updated>
-    </task>
-    <task id="LOCAL-00005" summary="btvn">
-      <created>1602293958766</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602293958766</updated>
-    </task>
-    <task id="LOCAL-00006" summary="demo b2">
-      <created>1602379723921</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1602379723921</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="demo" />
-    <MESSAGE value="btvn" />
-    <MESSAGE value="demo b2" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo b2" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="270" key="#Scopes" timestamp="1602294913388">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604982483282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="561" y="270" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1602294913388" />
-    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602295659184">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602295659184" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602294900874">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602294900874" />
-    <state x="387" y="0" key="CommitChangelistDialog2" timestamp="1602379723254">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="387" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602379723254" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1602296803239">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602296803239" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602379728613">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602379728613" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602300866906">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602300866906" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604982483282" />
   </component>
 </project>

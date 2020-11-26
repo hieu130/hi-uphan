@@ -1,0 +1,54 @@
+*{
+  /* thẻ * ảnh hưởng đến tất cả mọi thẻ nên sẽ để đaàu tiên  */
+}
+body {
+  /*  định nhĩa nền,màu sắc,kích cỡ,chữ,.....*/
+  background-color;#f2f2f2;
+  font-size: 14px;
+  line-height: 1.25;
+  font-weight:normal;
+/*  100-thin,300-light,400-nomal,500-meduim,600-semi-bold,700-bold,800-extra-bold,900-*/
+font-family: 'roboto',sans-serif;
+  color: #232323;
+}
+div{
+
+  width:px;
+  height: 400px;
+  background-color:#aaaaaa;
+  /*border: 10px solid #333333;!* dashed;đường net đứt,solid; đường liền, dotted;chấm chấm chấm *!*/
+  /*border-top: 1px solid #333333;  !* gạch trên *!*/
+  /*border-right:1px solid #333333;*/
+  /*border-bottom: 1px solid #333333;*/
+  /*border-left: 1px solid #333333;*/
+  box-shadow: 0 0 5px #aaaaaa;
+  border-radius: 6px;
+  margin: 15px 20px 25px;
+  box-sizing: border-box;
+  text-align: center;
+  float: left; /* left dồn trái , right: dồn phải, none : k đồn */
+}
+img{
+  float:left;
+  width: 100%;
+  height: auto;
+}
+div img{
+  width:300px;
+  float:none;
+}
+#sp{
+  background-color: lightpink;
+  transition: all 500ms;
+}
+#sp:hover{
+  transform: scale(1.25); /*rotate(360deg xoay 360 độ , scale(1.5): phóng to 1.5 lần */
+}
+@keyframes block_animation{
+  from{
+    transform: ronate(0deg);
+  }
+  to{
+    transform: rotate(360deg)
+  }
+}
