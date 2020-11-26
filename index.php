@@ -1,1 +1,1 @@
-<?php include("laps2.html");
+<?php include("baithiso1.html");
